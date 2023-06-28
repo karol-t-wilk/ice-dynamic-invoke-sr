@@ -1,0 +1,3 @@
+/home/karolwilk/uni/distrib/grpc/dynamic_invoke/DynamicServer/build/CMakeFiles/DynamicServer.dir
+/home/karolwilk/uni/distrib/grpc/dynamic_invoke/DynamicServer/build/CMakeFiles/edit_cache.dir
+/home/karolwilk/uni/distrib/grpc/dynamic_invoke/DynamicServer/build/CMakeFiles/rebuild_cache.dir

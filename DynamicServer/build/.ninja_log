@@ -1,0 +1,8 @@
+# ninja log v5
+1	3562	1687726102829379694	CMakeFiles/DynamicServer.dir/src/main.cpp.o	20505ae6198d94e2
+3562	3701	1687726102969379629	DynamicServer	bf9555b98ea1cb11
+1	2189	1687710971288409905	CMakeFiles/DynamicServer.dir/src/gen/Dynamic.cpp.o	9c89cb4ee46e8d28
+1	2350	1687722985126141907	CMakeFiles/DynamicServer.dir/gen/Dynamic.cpp.o	bbf758f380e06aad
+1	2113	1687792676044246920	CMakeFiles/DynamicServer.dir/gen/Dynamic.cpp.o	bbf758f380e06aad
+1	3533	1687792677464246521	CMakeFiles/DynamicServer.dir/src/main.cpp.o	20505ae6198d94e2
+3534	3660	1687792677592246485	DynamicServer	bf9555b98ea1cb11
